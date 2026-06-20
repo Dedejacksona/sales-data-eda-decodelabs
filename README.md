@@ -27,7 +27,9 @@ Exploratory data analysis on 1,200 sales orders — Data Analytics internship pr
 - Statistical methods: IQR & Z-score outlier detection, correlation analysis
 
 ## Related Projects
+- [Sales Data Cleaning](https://github.com/dedejacksona/sales-data-cleaning-decodelabs) — Excel cleaning process for the same underlying dataset
 - [SQL Sales Analysis](https://github.com/dedejacksona/sql-sales-analysis-decodelabs) — SQL queries on the same underlying dataset
+- [Sales Data Visualization](https://github.com/dedejacksona/sales-data-visualization-decodelabs) — Charts and visual reporting built on these findings
 
 ## How to View
 Download `analysis/Dataset_for_EDA.xlsx` and open in Excel — each sheet is 
